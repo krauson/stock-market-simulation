@@ -6,6 +6,6 @@ Instructions for windows users:
 2. Install pip:  <br>
   &emsp;A. Open the cmd terminal <br>
   &emsp;B. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py <br>
-  &nbsp;C. python get-pip.py <br>
+  &emspC. python get-pip.py
 
 3. Go to the directory (in the cmd) where you saved requirements.txt and type: pip install  requirements.txt
