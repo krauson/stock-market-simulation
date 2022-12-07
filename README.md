@@ -8,4 +8,4 @@ Instructions for windows users:
   B. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
   C. python get-pip.py
 
-3. Go to the directory where 
+3. Go to the directory where you saved 
